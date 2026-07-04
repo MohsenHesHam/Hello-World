@@ -6,10 +6,10 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
 
 ## 💬 About Me
 
-🤖 Passionate about Backend Development, Cloud Architectures, and Deep Learning Applications.
+🤖 Passionate about Backend Development, Clean Code Architecture, and building responsive Web Applications.
 
-🌱 **I’m currently focusing on:** Building scalable web applications, optimizing RESTful APIs, and integrating AI into production environments.
-🙌 **I’m looking to collaborate on:** Innovative Full-Stack projects (Laravel & React) or AI-driven systems.
+🌱 **I’m currently focusing on:** Building scalable web applications, optimizing RESTful APIs, and perfecting Full-Stack architectures.
+🙌 **I’m looking to collaborate on:** Innovative Full-Stack projects (Laravel & React) or high-performance backend systems.
 📄 **Know about my experiences:** Interned as a PHP/Laravel & React Developer at ITI, and practiced Competitive Programming.
 ⚡ **Fun fact:** I love solving complex algorithmic puzzles and refining UML database architectures down to the last relation.
 
@@ -24,10 +24,6 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
         <!-- Laravel -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-        <!-- Python -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <!-- FastAPI -->
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
         <!-- JavaScript -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <!-- React -->
@@ -49,8 +45,6 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         <!-- VS Code -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-        <!-- Linux -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </p>
     </td>
     <td valign="top" width="40%">
@@ -64,7 +58,7 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
 
 ## 🛠️ Technical Skills
 
-* **Backend:** PHP, Laravel, FastAPI, RESTful APIs, MVC Architecture
+* **Backend:** PHP, Laravel, RESTful APIs, MVC Architecture
 * **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
 * **Database:** MySQL, Database Design, Query Optimization
 * **Tools & Concepts:** Git & GitHub, Postman, UML Diagrams, Data Structures & Algorithms
@@ -75,7 +69,7 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
 
 * **Surface Defect Detection System (Graduation Project)** 🛠️
   * *Idea:* An AI-powered system for real-time defect prediction and data visualization.
-  * *Role:* Architected and developed the entire backend and database using Laravel & MySQL.
+  * *Role:* Architected and developed the backend and database utilizing Laravel and MySQL.
 * **Restaurant Management System** 🍔
   * *Role:* Implemented the core functionality and secure role-based access control (RBAC) using PHP and Laravel.
 * **Recipes Web Application** 🍳
@@ -87,7 +81,7 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
 
 * 🎓 **B.Sc. in Computer Science and Artificial Intelligence** - MTI University (GPA: 3.09)
 * 💼 **Intern PHP & Laravel Developer** @ ITI (08/2024 - 09/2024)
-* 💼 **Intern React Developer** @ ITI (08/2025 - 09/2025)
+* 💼 **Intern React Developer** @ ITI (08/2023 - 09/2023)
 * 🏆 **Competitive Programmer** @ Codeforces
 
 ---
@@ -95,7 +89,7 @@ Hi I'm Mohsen Hesham, A passionate Software Engineer & Full Stack Developer From
 ## ✉️ Social Media
 
 <p>
-  <a href="https://linkedin.com/in/mohsen-hesham/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohsen-hesham/" target="_blank">
     <img src="https://raw.githubusercontent.com/krishnaik06/krishnaik06/master/raw/github/images/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:mohsen.hesham.elhariry@gmail.com">
